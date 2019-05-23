@@ -1,0 +1,8 @@
+prefix=/home/emol/test/HW_all/install
+
+Name: HW3
+Description: Description of HW3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/emol/test/HW_all/install/lib 
+Requires: 

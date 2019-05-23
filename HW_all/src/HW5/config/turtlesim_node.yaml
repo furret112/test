@@ -1,0 +1,27 @@
+aa: {background_b: 255, background_g: 255, background_r: 255}
+background_b: 255
+background_g: 255
+background_r: 255
+freq: 32532
+rand: {freq: 10}
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_emol_x510unr__33477: 'http://emol-X510UNR:33477/', host_emol_x510unr__33553: 'http://emol-X510UNR:33553/',
+    host_emol_x510unr__33645: 'http://emol-X510UNR:33645/', host_emol_x510unr__34169: 'http://emol-X510UNR:34169/',
+    host_emol_x510unr__34943: 'http://emol-X510UNR:34943/', host_emol_x510unr__35121: 'http://emol-X510UNR:35121/',
+    host_emol_x510unr__35135: 'http://emol-X510UNR:35135/', host_emol_x510unr__35461: 'http://emol-X510UNR:35461/',
+    host_emol_x510unr__35463: 'http://emol-X510UNR:35463/', host_emol_x510unr__35643: 'http://emol-X510UNR:35643/',
+    host_emol_x510unr__36065: 'http://emol-X510UNR:36065/', host_emol_x510unr__38429: 'http://emol-X510UNR:38429/',
+    host_emol_x510unr__38713: 'http://emol-X510UNR:38713/', host_emol_x510unr__40305: 'http://emol-X510UNR:40305/',
+    host_emol_x510unr__40669: 'http://emol-X510UNR:40669/', host_emol_x510unr__42035: 'http://emol-X510UNR:42035/',
+    host_emol_x510unr__42529: 'http://emol-X510UNR:42529/', host_emol_x510unr__42825: 'http://emol-X510UNR:42825/',
+    host_emol_x510unr__43139: 'http://emol-X510UNR:43139/', host_emol_x510unr__43461: 'http://emol-X510UNR:43461/',
+    host_emol_x510unr__43937: 'http://emol-X510UNR:43937/', host_emol_x510unr__44057: 'http://emol-X510UNR:44057/',
+    host_emol_x510unr__45273: 'http://emol-X510UNR:45273/', host_emol_x510unr__45647: 'http://emol-X510UNR:45647/',
+    host_emol_x510unr__46153: 'http://emol-X510UNR:46153/'}
+rosversion: '1.12.14
+
+  '
+run_id: ab925dfa-6ff0-11e9-b5e5-9061aeecb7d8

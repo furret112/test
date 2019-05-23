@@ -1,0 +1,2 @@
+HW1:HW2:HW3:HW4:HW5
+-DCATKIN_DEVEL_PREFIX=/home/emol/test/HW_all/devel -DCMAKE_INSTALL_PREFIX=/home/emol/test/HW_all/install -G Unix Makefiles

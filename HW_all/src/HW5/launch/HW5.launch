@@ -1,0 +1,10 @@
+<launch>
+    <arg name="val" value ="5"/>
+
+        <node  pkg = "turtlesim"  type = "turtlesim_node"  name = "aa"  required = "true" /> 
+
+        <node  pkg = "HW5"  type = "rand_run5"  name = "rand"  required = "true"   >
+		<param name = "freq" type = "int" value = "10"/>
+	</node>
+	
+</launch>

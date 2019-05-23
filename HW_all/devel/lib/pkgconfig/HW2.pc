@@ -1,0 +1,8 @@
+prefix=/home/emol/test/HW_all/devel
+
+Name: HW2
+Description: Description of HW2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/emol/test/HW_all/devel/lib 
+Requires: 

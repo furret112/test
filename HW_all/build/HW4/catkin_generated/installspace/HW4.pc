@@ -1,0 +1,8 @@
+prefix=/home/emol/test/HW_all/install
+
+Name: HW4
+Description: Description of HW4
+Version: 0.0.0
+Cflags: -I/home/emol/test/HW_all/install/include
+Libs: -L/home/emol/test/HW_all/install/lib 
+Requires: 
